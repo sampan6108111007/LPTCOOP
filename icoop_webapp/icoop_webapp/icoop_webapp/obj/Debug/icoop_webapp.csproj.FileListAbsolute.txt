@@ -1,0 +1,5 @@
+D:\icoop_webapp\icoop_webapp\icoop_webapp\bin\icoop_webapp.dll
+D:\icoop_webapp\icoop_webapp\icoop_webapp\bin\icoop_webapp.pdb
+D:\icoop_webapp\icoop_webapp\icoop_webapp\obj\Debug\icoop_webapp.dll
+D:\icoop_webapp\icoop_webapp\icoop_webapp\obj\Debug\icoop_webapp.pdb
+D:\icoop_webapp\icoop_webapp\icoop_webapp\bin\Oracle.DataAccess.dll
